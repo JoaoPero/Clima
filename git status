@@ -1,0 +1,58 @@
+[33mcommit 1cdf60eadc3e2a977a698178bd6f4326408e49b3[m[33m ([m[1;36mHEAD -> [m[1;32mdevelop[m[33m)[m
+Merge: 8571060 a66c87a
+Author: João Perozzine <joaopero86@gmai.com>
+Date:   Thu Aug 3 16:19:25 2023 -0300
+
+    Merge branch 'main' of https://github.com/JoaoPero/Clima into develop
+
+[33mcommit 857106022103a2753f195bb531c4533652b91587[m[33m ([m[1;31morigin/develop[m[33m)[m
+Author: João Perozzine <joaopero86@gmai.com>
+Date:   Thu Aug 3 16:02:07 2023 -0300
+
+    ...
+
+[33mcommit a66c87a6d72acc41200d0830646164cd64bd4f69[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: f964274 27ffaec
+Author: João Paulo Perozzine <116232668+JoaoPero@users.noreply.github.com>
+Date:   Thu Aug 3 15:54:11 2023 -0300
+
+    Merge pull request #1 from JoaoPero/develop
+    
+    Develop
+
+[33mcommit 27ffaec63be98da352ce1324ddda95223ca2efa1[m
+Merge: 4c72fd0 95dc0b8
+Author: João Perozzine <joaopero86@gmai.com>
+Date:   Thu Aug 3 15:37:08 2023 -0300
+
+    Merge branch 'develop' of https://github.com/JoaoPero/Clima into develop
+
+[33mcommit 4c72fd0092fd5a9eac6ec1e33e0dbbbf1932dacd[m
+Author: João Perozzine <joaopero86@gmai.com>
+Date:   Thu Aug 3 15:30:17 2023 -0300
+
+    linkados os arquivos de css e JS no html | inseridas as funcionalidades da API 'openweathe', funcionalidades de preencher, renderizar e ocultar os dados da APi.
+
+[33mcommit e7f821e0d5b2fdd8841ddefb0f2e77abc221c06e[m
+Author: João Perozzine <joaopero86@gmai.com>
+Date:   Thu Aug 3 14:29:25 2023 -0300
+
+    inserido link para eliminar o erro de favicon
+
+[33mcommit 95dc0b82067626bb7673e0a08f11b37a96afd122[m
+Author: João Perozzine <joaopero86@gmai.com>
+Date:   Thu Aug 3 14:29:25 2023 -0300
+
+    inserido link para eliminarr o erro de favicon
+
+[33mcommit 12ac9b9a2455bc3767bfc52e150340d63113f303[m
+Author: João Perozzine <joaopero86@gmai.com>
+Date:   Thu Aug 3 14:08:40 2023 -0300
+
+    Criação dos arquivos iniciais index.html, style.css, script.js
+
+[33mcommit f964274ddd7be48ba7b3806c625bffb9e4ac30cc[m[33m ([m[1;32mmain[m[33m)[m
+Author: João Paulo Perozzine <116232668+JoaoPero@users.noreply.github.com>
+Date:   Thu Aug 3 13:46:03 2023 -0300
+
+    Initial commit
