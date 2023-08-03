@@ -40,6 +40,7 @@ function showInfo(json) {
   document.querySelector(".tempInfo").innerHTML = `${json.temp.toFixed(1)}<sup>ºC</sup>`;
   document.querySelector(".ventoInfo").innerHTML = `${json.wind.toFixed(1)} <span>km/h</span>`;
   document.querySelector(".ventoPonto").style.transform = `rotate(${json.windDeg}deg)`;
+  document.querySelector(".info img").setAttribute("src", `http://openweathermap.org/img/wn/${json.tempIcon}@2x.png`);
 
   document.querySelector(".aviso").style.color = "#fff";
   document.querySelector("#searchInput").value = "";
